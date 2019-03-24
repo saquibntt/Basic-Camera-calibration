@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\workspace_vs\camera_calibration\CMakeLists.txt" />
+    <CustomBuild Include="D:\workspace_vs\camera_calibration\build\CMakeFiles\f41953871bfd1e9f31ee8d657c2be3c9\CopyFolder.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\workspace_vs\camera_calibration\build\CMakeFiles\CopyFolder" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7D2C192C-A5B2-3DDB-99D7-9742A26809BC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
